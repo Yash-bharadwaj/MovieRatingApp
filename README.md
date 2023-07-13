@@ -4,7 +4,7 @@ Using Html Css Js.
 
 Project link : https://teal-naiad-fc527d.netlify.app/
 
-                                                        ****Sample Screens****
+**Sample Screens**
 
 
 <img width="1369" alt="Screenshot 2023-07-13 at 13 02 09" src="https://github.com/Yash-bharadwaj/MovieRatingApp/assets/86095452/67ca2b7b-3c27-431d-a0df-3872b95a71d2">
